@@ -1,4 +1,4 @@
-# How-to-use-OpenAIs-Whisper-Tutorial
+# How to use OpenAIs Whisper - Tutorial
 
 
 ## What is Whisper?
