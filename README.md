@@ -1,6 +1,6 @@
 # How to use OpenAIs Whisper - Tutorial
 
-
+[[Go directly to the Code]](https://github.com/lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial/blob/main/whisper-tutorial.ipynb)
 ## What is Whisper?
 
 Whisper is an automatic State-of-the-Art speech recognition system from OpenAI that has been trained on 680,000 hours 
